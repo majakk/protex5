@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ProTex
+Class-Path: itext-2.0.0.jar
+

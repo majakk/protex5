@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"
+"http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+<svg width="552" height="512"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+<desc>wmf2svg</desc>
+<polygon points="11.177581,420.286591 
+	540.822449,420.286591 276.000031,10.367599 11.177581,420.286591 "
+	style="fill:none; stroke-width:21.545172; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="11.177581,420.286591 
+	540.822449,420.286591 276.000031,10.367599 11.177581,420.286591 "
+	style="stroke-width:21.545172; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="11.177581,501.632385 
+	453.121552,10.367599 "
+	style="stroke-width:21.545172; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="98.878525,10.367599 
+	540.822449,501.632385 "
+	style="stroke-width:21.545172; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+</svg>

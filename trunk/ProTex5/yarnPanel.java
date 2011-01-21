@@ -50,9 +50,9 @@ public class yarnPanel extends JPanel implements ActionListener{
 		add(new JLabel("",JLabel.LEFT));
 		add(new JLabel("",JLabel.LEFT));
 		
-		add(new JLabel("FÃ¤rg",JLabel.LEFT));
+		add(new JLabel("Färg",JLabel.LEFT));
 		add(new JLabel("Anchor",JLabel.LEFT));
-		add(new JLabel("TrÃ¥dar",JLabel.LEFT));
+		add(new JLabel("Trådar",JLabel.LEFT));
 		
 		try{
 			yarnList.clear();

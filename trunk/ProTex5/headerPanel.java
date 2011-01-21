@@ -89,7 +89,7 @@ public class headerPanel extends JPanel implements ActionListener {
 		add(artnr);
 		artnr.addKeyListener(kl);
 		
-		add(new JLabel("Artikel under ",JLabel.RIGHT));
+		add(new JLabel("Artikel underrubrik ",JLabel.RIGHT));
 		artother.setAlignmentX(JTextField.RIGHT_ALIGNMENT);
 		add(artother);
 		artother.addKeyListener(kl);
@@ -99,7 +99,7 @@ public class headerPanel extends JPanel implements ActionListener {
 		add(size);
 		size.addKeyListener(kl);
 		
-		add(new JLabel("VÃ¤v ",JLabel.RIGHT));
+		add(new JLabel("Väv ",JLabel.RIGHT));
 		fabric.setAlignmentX(JComboBox.RIGHT_ALIGNMENT);
 		add(fabric);
 		fabric.addActionListener(this);

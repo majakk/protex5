@@ -457,11 +457,11 @@ public class workDescription {
 		      String artapp = new String("");
 		      String artext = new String("");
 		      if(size != ""){
-		    		  artapp += "Storlek\\Size\\GrÃ¶sse\\Koko:\n";
+		    		  artapp += "Storlek\\Size\\Grösse\\Koko:\n";
 		    		  artext += size + "\n";
 		      }
 		      if(fabric != ""){
-		    		  artapp += "VÃ¤v\\Fabric\\Gewebe\\Kangas:\n";
+		    		  artapp += "Väv\\Fabric\\Gewebe\\Kangas:\n";
 		    		  artext += fabric + "\n";
 		      }
 		      if(yarn != ""){			  
@@ -495,7 +495,7 @@ public class workDescription {
 		        
 		     
 		      //THE YARN CONSUMPTION TABLE
-		      Phrase aphrase1 = new Phrase("GarnÃ¥tgÃ¥ng\\Yarnconsumption\\Garnferbrauch\\Langankulutus: 1 TR = " + trLength + " Meter", font11n);
+		      Phrase aphrase1 = new Phrase("Garnåtgång\\Yarnconsumption\\Garnferbrauch\\Langankulutus: 1 TR = " + trLength + " Meter", font11n);
 		      //Phrase aphrase2 = new Phrase("Right Space", font11n);
 		      		      
 		      table = new PdfPTable(2);
@@ -521,9 +521,9 @@ public class workDescription {
 		      table2.addCell(cell);
 		      
 		      table2.addCell("");
-		      table2.addCell("FÃ¤rg\\Colour\\Farbe\\VÃ¤ri");
+		      table2.addCell("Färg\\Colour\\Farbe\\Väri");
 		      table2.addCell("Anchor");
-		      table2.addCell("TrÃ¥dar");
+		      table2.addCell("Trådar");
 		      for(int i = 0; i < yarnList.size(); i++){
 		    	  //Makes a choice here about numbering
 		    	  if(numbers)

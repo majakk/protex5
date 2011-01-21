@@ -1,29 +1,29 @@
-6/6-dels TrÃ¥d
+6/6-dels Tråd
  
-3/6-dels TrÃ¥d
- 
-2/6-dels TrÃ¥d
- 
-1/6-dels TrÃ¥d
+3/6-dels Tråd
+
+2/6-dels Tråd
+
+1/6-dels Tråd
 Attersting
 Eftersting
-HullsÃ¸m
-HolsÃ¸m
+Hullsøm
+Holsøm
 Kjedesting
-KÃ¦dsÃ¶m
+Kædsöm
 Knuter
 Knuder
 Korssting
 Korssting
-LangettsÃ¸m
+Langettsøm
 Langett
-PlattsÃ¸m
-PladesÃ¸m
-SjattÃ©rsÃ¸m
-SchattÃ©rsÃ¸m
+Plattsøm
+Pladesøm
+Sjattérsøm
+Schattérsøm
 Stilkesting
 Stilkesting
-LÃ¸kkesting
+Løkkesting
 Millefleur sting
-Ã…pne LÃ¸kkesting
-Ã…ben Millefleur sting
+Åpne Løkkesting
+Åben Millefleur sting

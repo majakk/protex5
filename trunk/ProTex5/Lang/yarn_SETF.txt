@@ -1,7 +1,7 @@
-Anchor MoulinÃ© 2/6 TrÃ¥d \Stranded Cotton\Sticktwist\MoulinÃ©lanka
-Anchor MoulinÃ© 2/6 + 1/6 TrÃ¥d\Stranded Cotton\Sticktwist\MoulinÃ©lanka
-Anchor MoulinÃ© 3/6 TrÃ¥d \Stranded Cotton\Sticktwist\MoulinÃ©lanka
-Anchor MoulinÃ© 3/6 + 2/6 TrÃ¥d\Stranded Cotton\Sticktwist\MoulinÃ©lanka
-Anchor MoulinÃ© 6/6 TrÃ¥d \Stranded Cotton\Sticktwist\MoulinÃ©lanka
-Anchor PÃ¤rlgarn\Pearl Cotton\Perlgarn\Helmilanka
+Anchor Mouliné 2/6 Tråd \Stranded Cotton\Sticktwist\Moulinélanka
+Anchor Mouliné 2/6 + 1/6 Tråd\Stranded Cotton\Sticktwist\Moulinélanka
+Anchor Mouliné 3/6 Tråd \Stranded Cotton\Sticktwist\Moulinélanka
+Anchor Mouliné 3/6 + 2/6 Tråd\Stranded Cotton\Sticktwist\Moulinélanka
+Anchor Mouliné 6/6 Tråd \Stranded Cotton\Sticktwist\Moulinélanka
+Anchor Pärlgarn\Pearl Cotton\Perlgarn\Helmilanka
 Ullgarn\Woolyarn\Wollgarn\Villalangalla

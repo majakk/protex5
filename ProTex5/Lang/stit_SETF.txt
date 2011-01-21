@@ -1,28 +1,28 @@
-6/6-dels Tråd
+6/6-dels Tr�d
 
- 
- 
-3/6-dels Tråd
- 
- 
- 
-2/6-dels Tråd
- 
- 
- 
-1/6-dels Tråd
- 
- 
- 
+
+
+3/6-dels Tr�d
+
+
+
+2/6-dels Tr�d
+
+
+
+1/6-dels Tr�d
+
+
+
 Efterstygn
 Backstitch
 Steppstich
-Jälkipisto
-Hålsöm
+J�lkipisto
+H�ls�m
 Holestitch
 Hohlsaum
-Reikäompelu
-Kedjesöm
+Reik�ompelu
+Kedjes�m
 Chainstitch
 Kettenstich
 Ketjupisto
@@ -34,27 +34,18 @@ Korsstygn
 Cross-stitch
 Kreuzstich
 Ristipisto
-Langettsöm
+Langetts�m
 Buttonhole-stitch
 Langette
 Langetti
-Plattsöm
+Platts�m
 Satinstitch
 Plattstich
 Laakaompelu
-Schattérsöm
+Schatt�rs�m
 Satinstitch
 Nadelmalerei
 Heiveompeluna
-Stjälkstygn
+Stj�lkstygn
 Stem-stitch
 Stielstich
-Kantaompelu
-Öglestygn
-Loopstitch
-Slingestich
-Silmukkapisto
-Öppna öglestygn
-Open loopstitch
-Öffnen Slingestich
-Avata silmukkapisto

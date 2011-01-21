@@ -15,16 +15,16 @@ public class washPanel extends JPanel implements ActionListener{
 	private static final long serialVersionUID = 1L;
 	private workDescription wd;
 	private JPanel p1 = new JPanel();
-	private JCheckBox handWash = new JCheckBox("Handtv√§tt");
-	private JCheckBox washTemp = new JCheckBox("Temperaturtv√§tt");
+	private JCheckBox handWash = new JCheckBox("Handtv‰tt");
+	private JCheckBox washTemp = new JCheckBox("Temperaturtv‰tt");
 	private JComboBox temperature = new JComboBox();
-	private JCheckBox woolWash = new JCheckBox("Ylletv√§tt");
+	private JCheckBox woolWash = new JCheckBox("Ylletv‰tt");
 	private JCheckBox ironing = new JCheckBox("Strykning");
 	private JCheckBox noBleach = new JCheckBox("Ej klorblekning");
 	private JCheckBox noDryer = new JCheckBox("Ej torktumlare");
-	private JCheckBox chemWash = new JCheckBox("Kemtv√§tt");
+	private JCheckBox chemWash = new JCheckBox("Kemtv‰tt");
 	
-	private JCheckBox printText = new JCheckBox("Varningstext tryckf√§rg",true);
+	private JCheckBox printText = new JCheckBox("Varningstext tryckf‰rg",true);
 	private JCheckBox bottomText = new JCheckBox("Reklamationstext",true);
 	
 	public washPanel(workDescription bertil){

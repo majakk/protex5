@@ -55,7 +55,7 @@ public class ProTex extends JFrame{
 	
 	protected void init(){
 		lp = new languagePanel(wd);
-		tp.addTab("SprÃ¥k", lp);
+		tp.addTab("Språk", lp);
 		//lp.addFocusListener(fl);
 		
 		hp = new headerPanel(wd);
@@ -63,13 +63,13 @@ public class ProTex extends JFrame{
 		//hp.addFocusListener(fl);
 		
 		yp = new yarnPanel(wd);
-		tp.addTab("GarnÃ¥tgÃ¥ng", yp);
+		tp.addTab("Garnåtgång", yp);
 		
 		sp = new stitchPanel(wd);
 		tp.addTab("Stygnsymboler", sp);
 		
 		wp = new washPanel(wd);
-		tp.addTab("TvÃ¤ttrÃ¥d & Text", wp);
+		tp.addTab("Tvättråd & Text", wp);
 		
 		cp = new generatePdfPanel(wd);
 		tp.addTab("Print", cp);

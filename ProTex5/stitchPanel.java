@@ -24,21 +24,21 @@ public class stitchPanel extends JPanel implements ActionListener{
 		wd = bertil;
 		setLayout(new GridLayout(12,2));
 		
-		stitchLabels.add("6/6 TrÃ¥d");
-		stitchLabels.add("3/6 TrÃ¥d");
-		stitchLabels.add("2/6 TrÃ¥d");
-		stitchLabels.add("1/6 TrÃ¥d");
+		stitchLabels.add("6/6 Tråd");
+		stitchLabels.add("3/6 Tråd");
+		stitchLabels.add("2/6 Tråd");
+		stitchLabels.add("1/6 Tråd");
 		stitchLabels.add("Efterstygn");
-		stitchLabels.add("HÃ¥lsÃ¶m");
-		stitchLabels.add("KedjesÃ¶m");
+		stitchLabels.add("Hålsöm");
+		stitchLabels.add("Kedjesöm");
 		stitchLabels.add("Knutar");
 		stitchLabels.add("Korsstygn");
 		stitchLabels.add("Langette");
-		stitchLabels.add("PlattsÃ¶m");
-		stitchLabels.add("SchattÃ©rsÃ¶m");
-		stitchLabels.add("StjÃ¤lkstygn");
-		stitchLabels.add("Ã–glestygn");
-		stitchLabels.add("Ã–ppna Ã–glestygn");		
+		stitchLabels.add("Plattsöm");
+		stitchLabels.add("Schattérsöm");
+		stitchLabels.add("Stjälkstygn");
+		stitchLabels.add("Öglestygn");
+		stitchLabels.add("Öppna Öglestygn");		
 		
 		for(int a = 0; a < STITCH_NUM; a++){
 			stitchList.add(new JCheckBox(stitchLabels.get(a)));

@@ -52,7 +52,7 @@ public class generatePdfPanel extends JPanel implements ActionListener{
 				if(fc.getSelectedFile().exists()){
 					//System.out.println("Finns!");
 					if(JOptionPane.showConfirmDialog(this, 
-							"Skriva Ã¶ver '" + fc.getSelectedFile().getName() + "' ?",
+							"Skriva över '" + fc.getSelectedFile().getName() + "' ?",
 							"", JOptionPane.YES_NO_OPTION) == JOptionPane.YES_OPTION){
 						//Set filename!
 						wd.generatePDF(fc.getSelectedFile().getAbsolutePath());
@@ -73,7 +73,7 @@ public class generatePdfPanel extends JPanel implements ActionListener{
 		}		
 		if(b == clearbutt){
 			if(JOptionPane.showConfirmDialog(this, 
-					"Ã…terstÃ¤lla Allt?",
+					"Återställa Allt?",
 					"", JOptionPane.YES_NO_OPTION) == JOptionPane.YES_OPTION){
 				//Clear All and Reload Interface, setting all to Default!
 				wd.setDefaults();
